@@ -255,4 +255,4 @@ Payment gateway integration
 👨‍💻 Author
 
 Anjul
-B.Tech Computer Science (Core)
+B.Tech Computer Science 
